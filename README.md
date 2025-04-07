@@ -13,6 +13,7 @@ ByteCrypt (Phantom/Crybat/Jlaive Rewrite) is an antivirus evasion tool that can 
 - ETW Bypass
 - API Unhooking
 - UAC Bypass
+- Rootkit (Ring 3)
 - Installation (Startup)
 - Custom Messagebox
 - Custom PowerShell Command
