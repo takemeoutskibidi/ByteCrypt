@@ -1,0 +1,10 @@
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.csproj.AssemblyReference.cache
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.PhantomMain.resources
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.Properties.Resources.resources
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.csproj.GenerateResource.cache
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.csproj.CoreCompileInputs.cache
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\bin\Release\Phantom.exe.config
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\bin\Release\Phantom.exe
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.csproj.Fody.CopyLocal.cache
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\miles\OneDrive\Desktop\Jlaive\PhantomPrivate\Source\Phantom\obj\Release\Phantom.exe
