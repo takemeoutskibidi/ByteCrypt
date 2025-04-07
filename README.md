@@ -35,9 +35,11 @@ After:
 ![image](https://github.com/user-attachments/assets/702875ef-ace5-45c7-9fac-b93e5bd48b92)
 
 # Credits
-Phantom: @C5Hackr
-Jlaive/Crybat: @ch2sh
-ByteCrypt: @therealcoderm
+Phantom: @C5Hackr - Used alot of his Jlaive Mod Code to make this project great, shout out to him.
+
+Jlaive/Crybat: @ch2sh - Original Jlaive Repository couldn't have been done with out you.
+
+ByteCrypt: @therealcoderm - New Modifications such as AMSI Bypass, Runtime Bypasses, API Unhooking and more.
 
 # Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously, it is yet again not guaranteed .NET/Native files are to work.
