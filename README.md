@@ -34,6 +34,11 @@ After:
 
 ![image](https://github.com/user-attachments/assets/702875ef-ace5-45c7-9fac-b93e5bd48b92)
 
+# Credits
+Phantom: @C5Hackr
+Jlaive/Crybat: @ch2sh
+ByteCrypt: @therealcoderm
+
 # Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously, it is yet again not guaranteed .NET/Native files are to work.
 
