@@ -1,5 +1,5 @@
-# ByteCrypt
-ByteCrypt (Phantom/Crybat/Jlaive Rewrite) is an antivirus evasion tool that can convert executables to undetectable batch files, .NET/Native assemblies are not guaranteed to work.
+# Phantom V2
+Phantom V2 (Phantom/Crybat/Jlaive Rewrite) is an antivirus evasion tool that can convert executables to undetectable batch files, .NET/Native assemblies are not guaranteed to work.
 
 # Features
 - .NET/Native (x64/x86) Support
@@ -13,16 +13,14 @@ ByteCrypt (Phantom/Crybat/Jlaive Rewrite) is an antivirus evasion tool that can 
 - ETW Bypass
 - API Unhooking
 - UAC Bypass
-- Rootkit (Ring 3)
 - Installation (Startup)
 - Custom Messagebox
-- Custom PowerShell Command
-- Delay Execution
+- Custom Command
 And more..!
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/1ef38653-c7df-4064-8f44-e909ac42c9f7)
+![image](https://github.com/user-attachments/assets/f72905a9-99fa-4452-8fd6-f1f82d3368a6)
 
 Before:
 
@@ -39,7 +37,7 @@ Phantom: @C5Hackr - Used alot of his Jlaive Mod Code to make this project great,
 
 Jlaive/Crybat: @ch2sh - Original Jlaive Repository couldn't have been done with out you.
 
-ByteCrypt: @therealcoderm - New Modifications such as AMSI Bypass, Runtime Bypasses, API Unhooking and more.
+Phantom V2: @therealcoderm - New Modifications such as AMSI Bypass, Runtime Bypasses, API Unhooking and more.
 
 # Disclaimer
 This project was made for educational purposes only. I am not responsible if you choose to use this illegally/maliciously, it is yet again not guaranteed .NET/Native files are to work.
