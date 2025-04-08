@@ -1,0 +1,15 @@
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\Phantom.exe.config
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\Phantom.exe
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\dnlib.xml
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\Newtonsoft.Json.xml
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\bin\Release\System.ValueTuple.xml
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.PhantomMain.resources
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.Properties.Resources.resources
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.GenerateResource.cache
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.Fody.CopyLocal.cache
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.csproj.Up2Date
+C:\Users\miles\Downloads\New folder (28)\Phantom\Phantom\obj\Release\Phantom.exe
