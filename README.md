@@ -11,7 +11,7 @@ Phantom V2 (Phantom/Crybat/Jlaive Rewrite) is an antivirus evasion tool that can
 - Bind Files
 - AMSI Bypass
 - ETW Bypass
-- API Unhooking
+- API Unhooking (Optional Now!)
 - UAC Bypass
 - Installation (Startup)
 - Custom Messagebox
